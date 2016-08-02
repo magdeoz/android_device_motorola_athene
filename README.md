@@ -7,6 +7,7 @@ Codename: Athene
 Big thanks to:
 @pranav01 (For all the initial help and server :P :D) - https://github.com/pranav01
 @CTXz (For some crucial information that helped me) - https://github.com/CTXz
+@Shreps (For encryption support) - https://github.com/Shr3ps
 ```
 
 Add to `.repo/local_manifests/athene.xml`:
